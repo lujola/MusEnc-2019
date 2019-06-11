@@ -45,52 +45,16 @@
                     </note>
                   </beam>
                 </layer>
-                <layer n="2">
-                  <note pname="e" oct="4" dur="4" stem.dir="down">
-                    <verse n="1">
-                        <syl con="d" wordpos="i">Je</syl>
-                    </verse>
-                    <verse n="2">
-                        <syl con="d" wordpos="i">Je</syl>
-                    </verse>
-                  </note>
-                  <note pname="g" oct="4" dur="4" stem.dir="down">
-                    <verse n="1">
-                        <syl wordpos="t">su,</syl>
-                    </verse>
-                    <verse n="2">
-                        <syl wordpos="t">su,</syl>
-                    </verse>
-                  </note>
-                  <note pname="f" oct="4" dur="4" stem.dir="down">
-                    <verse n="1">
-                        <syl con="d" wordpos="i">Je</syl>
-                    </verse>
-                    <verse n="2">
-                        <syl con="d" wordpos="i">Je</syl>
-                    </verse>
-                  </note>
-                  <note pname="g" oct="4" dur="4" stem.dir="down">
-                    <verse n="1">
-                        <syl wordpos="t">su,</syl>
-                    </verse>
-                    <verse n="2">
-                        <syl wordpos="t">su,</syl>
-                    </verse>
-                  </note>
-                </layer>
+                <layer n="2"/>
               </staff>
               <staff n="2">
                 <layer n="1">
-                  <note pname="c" oct="4" dur="4" stem.dir="up"/>
-                  <note pname="c" oct="4" dur="4" stem.dir="up"/>
-                  <note pname="d" oct="4" dur="4" stem.dir="up"/>
-                  <note pname="e" oct="4" dur="4" stem.dir="up"/>
+                  <note pname="a" oct="3" dur="2" stem.dir="up"/>
                 </layer>
                 <layer n="2">
-                  <note pname="c" oct="3" dur="4" stem.dir="down"/>
-                  <note pname="e" oct="3" dur="4" stem.dir="down"/>
-                  <note pname="d" oct="3" dur="4" stem.dir="down"/>
-                  <note pname="c" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="f" oct="3" dur="2" stem.dir="down"/>
+                </layer>
+                <layer n="3">
+                  <note pname="f" oct="2" dur="2" stem.dir="down"/>
                 </layer>
               </staff>
