@@ -52,13 +52,14 @@
                   <note pname="a" oct="3" dur="2" stem.dir="up"/>
                 </layer>
                 <layer n="2">
-                  <note pname="f" oct="3" dur="2" stem.dir="down"/>
+                  <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
                 </layer>
                 <layer n="3">
-                  <note pname="f" oct="2" dur="2" stem.dir="down"/>
+                  <note pname="f" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
                 </layer>
               </staff>
             </measure>
+            <measure n="2">
               <staff n="1">
                 <layer n="1">
                   <beam>
@@ -71,15 +72,38 @@
                   </beam>
                 </layer>
               </staff>
-              <staff n="2">
+              <staff n="1">
                 <layer n="2">
                   <note pname="c" oct="4" dur="4" dots="1" stem.dir="down">
                     <verse>
-                      <syl>morning</syl>
+                      <syl>Morning,</syl>
                     </verse>
                   </note>
-                  <note pname="e" oct="4" accid="f" dur="8" stem.dir="down"/>
+                  <note pname="e" oct="4" accid="f" dur="8" stem.dir="down">
+                    <verse>
+                      <syl>just</syl>
+                    </verse>
+                  </note>
                 </layer>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                </layer>
+                <layer n="2">
+                  <note pname="a" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                </layer>
+              </staff>
+              <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
+            </measure>
+
+
+
+
+
+
+
+            </measure>
 
 
       </score>
