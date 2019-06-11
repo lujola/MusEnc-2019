@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/3.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Early one morning</title>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <encodingDesc/>
+    <workDesc>
+      <work />
+    </workDesc>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef meter.count="2" meter.unit="4" key.sig="1f" key.mode="major">
+            <staffGrp symbol="bracket">
+              <staffDef lines="5" clef.shape="G" clef.line="2" n="1"/>
+              <staffDef lines="5" clef.shape="F" clef.line="4" n="2"/>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <measure n="1">
+              <staff n="1">
+                <layer n="1">
+                  <note pname="f" oct="4" dur="4" stem.dir="up">
+                    <verse>
+                      <syl con="u" wordpos="i">Ear</syl>
+                    </verse>
+                  </note>
+                  <beam>
+                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl wordpos="t">ly</syl>
+                      </verse>
+                    </note>
+                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>one</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+                <layer n="2">
+                  <note pname="e" oct="4" dur="4" stem.dir="down">
+                    <verse n="1">
+                        <syl con="d" wordpos="i">Je</syl>
+                    </verse>
+                    <verse n="2">
+                        <syl con="d" wordpos="i">Je</syl>
+                    </verse>
+                  </note>
+                  <note pname="g" oct="4" dur="4" stem.dir="down">
+                    <verse n="1">
+                        <syl wordpos="t">su,</syl>
+                    </verse>
+                    <verse n="2">
+                        <syl wordpos="t">su,</syl>
+                    </verse>
+                  </note>
+                  <note pname="f" oct="4" dur="4" stem.dir="down">
+                    <verse n="1">
+                        <syl con="d" wordpos="i">Je</syl>
+                    </verse>
+                    <verse n="2">
+                        <syl con="d" wordpos="i">Je</syl>
+                    </verse>
+                  </note>
+                  <note pname="g" oct="4" dur="4" stem.dir="down">
+                    <verse n="1">
+                        <syl wordpos="t">su,</syl>
+                    </verse>
+                    <verse n="2">
+                        <syl wordpos="t">su,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="c" oct="4" dur="4" stem.dir="up"/>
+                  <note pname="c" oct="4" dur="4" stem.dir="up"/>
+                  <note pname="d" oct="4" dur="4" stem.dir="up"/>
+                  <note pname="e" oct="4" dur="4" stem.dir="up"/>
+                </layer>
+                <layer n="2">
+                  <note pname="c" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="e" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="d" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="c" oct="3" dur="4" stem.dir="down"/>
+                </layer>
+              </staff>
