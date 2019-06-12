@@ -29,18 +29,17 @@
     </fileDesc>
     <encodingDesc>
       <appInfo>
-        <application>Atom</application>
-example:
-<application xml:id="application-0000000285158415" isodate="2019-06-11T14:18:31" version="2.2.0-dev-af4e03d">
-    <name xml:id="name-0000001106531296">Verovio</name>
-    <p xml:id="p-0000000730989614">Transcoded from MusicXML</p>
-</application>
-
-
+        <application isodate="2019" version="1.38.0">
+          <name>Atom</name>
+        </application>
+      </appInfo>
       <projectDesc>
-    <workDesc>
+        <p>This file was created for the Music Encoding Initiative course offered at UVic's DHSI 2019 in Victoria, BC.</p>
+      </projectDesc>
+    </encodingDesc>
+    <!-- <workDesc>
       <work />
-    </workDesc>
+    </workDesc> -->
   </meiHead>
   <music>
     <body>
