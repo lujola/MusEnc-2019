@@ -2,11 +2,30 @@
 <?xml-model href="https://music-encoding.org/schema/3.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei">
   <meiHead>
+    <!-- <altId></altId> -->
     <fileDesc>
       <titleStmt>
         <title>Early one morning</title>
+        <title type="Alternative">Early one morning, just as the sun</title>
+        <respStmt>
+          <resp>Transcribed by</resp>
+          <persName role="trc">Lucinda Johnston</persName>
+        </respStmt>
       </titleStmt>
-      <pubStmt/>
+      <!-- <editionStmt></editionStmt> -->
+      <!-- <extent></extent> -->
+      <pubStmt>
+        <unpub/>
+      </pubStmt>
+      <!-- <seriesStmt></seriesStmt> -->
+      <!-- <notesStmt></notesStmt> -->
+      <sourceDesc>
+        <source>
+          <titleStmt>
+            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes interspersed with remarks and anecdotes and preceded by an essay on English minstrelsy. The airs harmonized, for the pianoforte,</title>
+
+          </titleStmt>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc/>
     <workDesc>
