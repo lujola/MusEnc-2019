@@ -23,11 +23,21 @@
         <source>
           <titleStmt>
             <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes interspersed with remarks and anecdotes and preceded by an essay on English minstrelsy. The airs harmonized, for the pianoforte,</title>
-
           </titleStmt>
+        </source>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc/>
+    <encodingDesc>
+      <appInfo>
+        <application>Atom</application>
+example:
+<application xml:id="application-0000000285158415" isodate="2019-06-11T14:18:31" version="2.2.0-dev-af4e03d">
+    <name xml:id="name-0000001106531296">Verovio</name>
+    <p xml:id="p-0000000730989614">Transcoded from MusicXML</p>
+</application>
+
+
+      <projectDesc>
     <workDesc>
       <work />
     </workDesc>
