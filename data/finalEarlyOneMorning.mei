@@ -489,7 +489,6 @@
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
-
             <measure n="14">
               <staff n="1">
                 <layer n="1">
@@ -532,6 +531,44 @@
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="2"/>
               <slur tstamp="2" tstamp2="2.5" curvedir="below" staff="1" layer="2"/>
+            </measure>
+
+            <measure n="14">
+              <staff n="1">
+                <layer n="1">
+                  <beam>
+                    <note pname="a" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>poor</syl>
+                      </verse>
+                    </note>
+                    <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>maiden</syl>
+                      </verse>
+                    </note>
+                    <note pname="e" oct="4" dur="8" stem.dir="up"/>
+                  </beam>
+                </layer>
+                <layer n="2"/>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <beam>
+                    <note pname="c" oct="4" dur="8" stem.dir="up"/>
+                    <note pname="b" oct="2" dur="8" stem.dir="up"/>
+                  </beam>
+                  <beam>
+                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                    <note pname="g" oct="2" dur="8" stem.dir="up"/>
+                  </beam>
+                </layer>
+                <layer n="2">
+                  <note pname="c" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                </layer>
+              </staff>
+              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
 
         </section>
