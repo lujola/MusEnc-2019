@@ -248,13 +248,13 @@
                 <layer n="1">
                   <note pname="c" oct="4" dur="4" stem.dir="down"/>
                   <beam>
-                    <note pname="d" oct="3" dur="8" stem.dir="up"/>
-                    <note pname="d" oct="3" accid="s" dur="8" stem.dir="up"/>
+                    <note pname="f" oct="3" dur="8" stem.dir="up"/>
+                    <note pname="f" oct="3" accid="s" dur="8" stem.dir="up"/>
                   </beam>
                 </layer>
                 <layer n="2">
-                  <note pname="a" oct="3" dur="2" stem.dir="down"/>
-                  <note pname="a" oct="2" dur="2" stem.dir="down"/>
+                  <note pname="a" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="a" oct="2" dur="4" stem.dir="down"/>
                 </layer>
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
