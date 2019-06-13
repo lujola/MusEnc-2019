@@ -73,7 +73,6 @@
                     </note>
                   </beam>
                 </layer>
-                <layer n="2"/>
               </staff>
               <staff n="2">
                 <layer n="1">
@@ -91,27 +90,27 @@
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>Morning,</syl>
+                      </verse>
+                    </note>
                     <note pname="a" oct="4" dur="8" stem.dir="up"/>
                   </beam>
                   <beam>
                     <note pname="c" oct="5" dur="8" stem.dir="up"/>
-                    <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                    <note pname="c" oct="5" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>just</syl>
+                      </verse>
+                    </note>
                   </beam>
                 </layer>
               </staff>
               <staff n="1">
                 <layer n="2">
-                  <note pname="c" oct="4" dur="4" dots="1" stem.dir="down">
-                    <verse>
-                      <syl>Morning,</syl>
-                    </verse>
-                  </note>
-                  <note pname="e" oct="4" accid="f" dur="8" stem.dir="down">
-                    <verse>
-                      <syl>just</syl>
-                    </verse>
-                  </note>
+                  <note pname="c" oct="4" dur="4" dots="1" stem.dir="down"/>
+                  <note pname="e" oct="4" accid="f" dur="8" stem.dir="down"/>
                 </layer>
               </staff>
               <staff n="2">
