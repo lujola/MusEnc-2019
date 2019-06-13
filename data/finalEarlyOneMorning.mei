@@ -200,7 +200,7 @@
                     </note>
                     <note pname="f" oct="4" dur="8" stem.dir="up">
                       <verse>
-                        <syl>maid</syl>
+                        <syl>Maid</syl>
                       </verse>
                     </note>
                   </beam>
@@ -511,14 +511,10 @@
                   </beam>
                 </layer>
                 <layer n="2">
-                  <beam>
-                    <note pname="g" oct="4" dur="8" stem.dir="up"/>
-                    <note pname="f" oct="4" dur="8" stem.dir="up"/>
-                  </beam>
-                  <beam>
-                    <note pname="e" oct="4" dur="8" stem.dir="up"/>
-                    <note pname="d" oct="4" dur="8" stem.dir="up"/>
-                  </beam>
+                  <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                  <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                  <note pname="e" oct="4" dur="8" stem.dir="up"/>
+                  <note pname="d" oct="4" dur="8" stem.dir="up"/>
                 </layer>
               </staff>
               <staff n="2">
@@ -545,7 +541,7 @@
                     <note pname="g" oct="4" dur="8" stem.dir="up"/>
                     <note pname="f" oct="4" dur="8" stem.dir="up">
                       <verse>
-                        <syl>maiden</syl>
+                        <syl>Maiden</syl>
                       </verse>
                     </note>
                     <note pname="e" oct="4" dur="8" stem.dir="up"/>
