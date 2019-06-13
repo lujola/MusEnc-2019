@@ -80,9 +80,9 @@
                   <note pname="a" oct="3" dur="2" stem.dir="up"/>
                 </layer>
                 <layer n="2">
-                  <chord>
-                    <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
-                    <note pname="f" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
+                  <chord stem.dir="down" stem.pos="right">
+                    <note pname="f" oct="3" dur="2"/>
+                    <note pname="f" oct="2" dur="2"/>
                   </chord>
                 </layer>
               </staff>
