@@ -182,6 +182,32 @@
               </staff>
             </measure>
 
+            <measure n="5">
+              <staff n="1">
+                <layer n="1">
+                  <note pname="f" oct="4" dur="4" stem.dir="up">
+                    <verse>
+                      <syl>heard</syl>
+                    </verse>
+                  </note>
+                  <beam>
+                    <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                    <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                  </beam>
+                
+                </layer>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="g" oct="3" dur="4" dots="1" stem.dir="up"/>
+                  <note pname="b" oct="3" dur="4" stem.dir="up"/>
+                </layer>
+                <layer n="2">
+                  <note pname="c" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
+                </layer>
+              </staff>
+            </measure>
+
         </section>
       </score>
     </mdiv>
