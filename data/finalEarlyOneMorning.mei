@@ -532,8 +532,7 @@
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="2"/>
               <slur tstamp="2" tstamp2="2.5" curvedir="below" staff="1" layer="2"/>
             </measure>
-
-            <measure n="14">
+            <measure n="15">
               <staff n="1">
                 <layer n="1">
                   <beam>
@@ -570,10 +569,29 @@
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
-
-        </section>
-      </score>
-    </mdiv>
-  </body>
-</music>
+            <measure n="16">
+              <staff n="1">
+                <layer n="1">
+                  <note pname="f" oct="4" dur="2" stem.dir="up">
+                    <verse>
+                      <syl>so.</syl>
+                    </verse>
+                  </note>
+                </layer>
+                <layer n="2"/>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="a" oct="3" dur="2" stem.dir="up"/>
+                </layer>
+                <layer n="2">
+                  <note pname="f" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
 </mei>
