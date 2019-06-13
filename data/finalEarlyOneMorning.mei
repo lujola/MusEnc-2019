@@ -181,7 +181,6 @@
                 </layer>
               </staff>
             </measure>
-
             <measure n="5">
               <staff n="1">
                 <layer n="1">
@@ -218,6 +217,47 @@
                   </chord>
                 </layer>
               </staff>
+            </measure>
+            <measure n="6">
+              <staff n="1">
+                <layer n="1">
+                  <beam>
+                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>sing</syl>
+                      </verse>
+                    </note>
+                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                  </beam>
+                  <beam>
+                    <note pname="c" oct="5" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>in</syl>
+                      </verse>
+                    </note>
+                    <note pname="c" oct="5" dur="8" stem.dir="up">
+                      <verse>
+                        <syl>the</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+                <layer n="2"/>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="c" oct="4" dur="4" stem.dir="down"/>
+                  <beam>
+                    <note pname="d" oct="3" dur="8" stem.dir="up"/>
+                    <note pname="d" oct="3" accid="s" dur="8" stem.dir="up"/>
+                  </beam>
+                </layer>
+                <layer n="2">
+                  <note pname="a" oct="3" dur="2" stem.dir="down"/>
+                  <note pname="a" oct="2" dur="2" stem.dir="down"/>
+                </layer>
+              </staff>
+              <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
             </measure>
 
         </section>
