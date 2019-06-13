@@ -113,11 +113,12 @@
                 </layer>
               </staff>
               <staff n="2">
-                <layer n="1">
-                  <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
-                </layer>
+                <layer n="1"/>
                 <layer n="2">
-                  <note pname="a" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                  <chord>
+                    <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                    <note pname="a" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
+                  </chord>
                 </layer>
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
