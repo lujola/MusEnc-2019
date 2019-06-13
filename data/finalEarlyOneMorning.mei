@@ -494,28 +494,35 @@
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="e" oct="5" dur="8" stem.dir="up">
-                      <verse>
-                        <syl>use</syl>
-                      </verse>
-                    </note>
-                    <note pname="d" oct="5" dur="8" stem.dir="up"/>
+                    <chord>
+                      <note pname="e" oct="5" dur="8" stem.dir="up">
+                        <verse>
+                          <syl>use</syl>
+                        </verse>
+                      </note>
+                      <note pname="g" oct="4" dur="8" stem.dir="up"/>
+                    </chord>
+                    <chord>
+                      <note pname="d" oct="5" dur="8" stem.dir="up"/>
+                      <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                    </chord>
                   </beam>
                   <beam>
-                    <note pname="c" oct="5" dur="8" stem.dir="up">
-                      <verse>
-                        <syl>a</syl>
-                      </verse>
-                    </note>
-                    <note pname="b" oct="4" dur="8" stem.dir="up"/>
+                    <chord>
+                      <note pname="c" oct="5" dur="8" stem.dir="up"/>
+                      <note pname="e" oct="4" dur="8" stem.dir="up">
+                        <verse>
+                          <syl>a</syl>
+                        </verse>
+                      </note>
+                    </chord>
+                    <chord>
+                      <note pname="b" oct="4" dur="8" stem.dir="up"/>
+                      <note pname="d" oct="4" dur="8" stem.dir="up"/>
+                    </chord>
                   </beam>
                 </layer>
-                <layer n="2">
-                  <note pname="g" oct="4" dur="8" stem.dir="up"/>
-                  <note pname="f" oct="4" dur="8" stem.dir="up"/>
-                  <note pname="e" oct="4" dur="8" stem.dir="up"/>
-                  <note pname="d" oct="4" dur="8" stem.dir="up"/>
-                </layer>
+                <layer n="2"/>
               </staff>
               <staff n="2">
                 <layer n="1"/>
@@ -526,8 +533,8 @@
                   </chord>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="2"/>
-              <slur tstamp="2" tstamp2="2.5" curvedir="below" staff="1" layer="2"/>
+              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+              <slur tstamp="2" tstamp2="2.5" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="15">
               <staff n="1">
