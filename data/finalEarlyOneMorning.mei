@@ -170,6 +170,7 @@
                     </verse>
                   </note>
                 </layer>
+                <layer n="2"/>
               </staff>
               <staff n="2">
                 <layer n="1">
@@ -180,6 +181,7 @@
                   <note pname="c" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
                 </layer>
               </staff>
+              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="5">
               <staff n="1">
@@ -207,9 +209,9 @@
               <staff n="2">
                 <layer n="1"/>
                 <layer n="2">
-                  <chord>
-                    <note pname="f" oct="3" dur="4" stem.dir="down"/>
-                    <note pname="a" oct="3" dur="4" stem.dir="down"/>
+                  <chord stem.dir="down">
+                    <note pname="f" oct="3" dur="4"/>
+                    <note pname="a" oct="3" dur="4"/>
                   </chord>
                   <chord>
                     <note pname="g" oct="3" dur="4" stem.dir="down"/>
@@ -291,7 +293,7 @@
                 </layer>
                 <layer n="2">
                   <note pname="b" oct="2" dur="4" stem.dir="down"/>
-                  <note pname="c" oct="2" dur="4" stem.dir="down"/>
+                  <note pname="c" oct="3" dur="4" stem.dir="down"/>
                 </layer>
               </staff>
             </measure>
