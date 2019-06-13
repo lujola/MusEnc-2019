@@ -259,9 +259,8 @@
                   <note pname="a" oct="2" dur="4" stem.dir="down"/>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
+              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
-
             <measure n="7">
               <staff n="1">
                 <layer n="1">
@@ -294,6 +293,30 @@
                 <layer n="2">
                   <note pname="b" oct="2" dur="4" stem.dir="down"/>
                   <note pname="c" oct="3" dur="4" stem.dir="down"/>
+                </layer>
+              </staff>
+              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+            </measure>
+
+            <measure n="8">
+              <staff n="1">
+                <layer n="1">
+                  <note pname="f" oct="4" dur="2" stem.dir="up">
+                    <verse >
+                      <syl con="u" wordpos="t">low</syl>
+                    </verse>
+                  </note>
+                </layer>
+                <layer n="2"/>
+              </staff>
+              <staff n="2">
+                <layer n="1">
+                  <note pname="a" oct="3" dur="4" stem.dir="down"/>
+                </layer>
+                <layer n="2">
+                  <note pname="f" oct="3" dur="4" stem.dir="down"/>
+                  <note pname="f" oct="2" dur="8" stem.dir="up"/>
+                  <rest dur="8"/>
                 </layer>
               </staff>
             </measure>
