@@ -51,7 +51,7 @@
               <staffDef lines="5" clef.shape="F" clef.line="4" n="2"/>
             </staffGrp>
           </scoreDef>
-          <section>
+          <section n="1">
             <measure n="1">
               <staff n="1">
                 <layer n="1">
@@ -320,7 +320,7 @@
               </staff>
             </measure>
           </section>
-          <section>
+          <section n="2">
             <measure n="9">
               <staff n="1">
                 <layer n="1">
@@ -449,7 +449,7 @@
                 </layer>
                 <layer n="2">
                   <note pname="f" oct="3" dur="4" dots="1" stem.dir="down"/>
-                  <note pname="c" oct="2" dur="8" stem.dir="down"/>
+                  <note pname="c" oct="3" dur="8" stem.dir="down"/>
                 </layer>
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
