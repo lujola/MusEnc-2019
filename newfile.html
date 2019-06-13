@@ -46,7 +46,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("data/example.mei", function(data) {
+    CETEI4MEI.getHTML5("data/finalEarlyOneMorning.mei", function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
@@ -60,7 +60,7 @@
         scale: 50,
         adjustPageHeight: true
     })
-    fetch("data/example.mei").then(function( response ) {
+    fetch("data/finalEarlyOneMorning.mei").then(function( response ) {
         response.text().then(function( data ) {
           var svg = vrvToolkit.renderData(data, {})
           document.getElementById('MEI').innerHTML = svg
