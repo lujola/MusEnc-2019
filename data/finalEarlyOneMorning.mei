@@ -5,8 +5,9 @@
     <!-- <altId></altId> -->
     <fileDesc>
       <titleStmt>
-        <title>Early one morning</title>
-        <title type="Alternative">Early one morning, just as the sun</title>
+        <title>Early One Morning</title>
+        <title type="Alternative">Indexed as: Early one morning, just as the sun</title>
+        <composer>Traditionl English melody and lyrics</composer>
         <respStmt>
           <resp>Transcribed by</resp>
           <persName role="trc">Lucinda Johnston</persName>
@@ -18,7 +19,9 @@
         <unpub/>
       </pubStmt>
       <!-- <seriesStmt></seriesStmt> -->
-      <!-- <notesStmt></notesStmt> -->
+      <notesStmt>
+        <annot>This is a transcription of the first known example of the melody Early One Morning appearing in print. It appeared with a simple piano accompaniment.</annot> 
+      </notesStmt>
       <sourceDesc>
         <source>
           <titleStmt>
@@ -493,16 +496,8 @@
             <measure n="14">
               <staff n="1">
                 <layer n="1">
-                  <beam>
-                    <chord>
-                      <note pname="e" oct="5" dur="8" stem.dir="up">
-                        <verse>
-                          <syl>use</syl>
-                        </verse>
-                      </note>
-                      <note pname="g" oct="4" dur="8" stem.dir="up"/>
                     </chord>
-                    <chord>
+                    <chord beam="t">
                       <note pname="d" oct="5" dur="8" stem.dir="up"/>
                       <note pname="f" oct="4" dur="8" stem.dir="up"/>
                     </chord>
