@@ -5,8 +5,9 @@
     <!-- <altId></altId> -->
     <fileDesc>
       <titleStmt>
-        <title>Early one morning</title>
-        <title type="Alternative">Early one morning, just as the sun</title>
+        <title>Early One Morning</title>
+        <title type="Alternative">Indexed as: Early one morning, just as the sun</title>
+        <composer>Traditional English melody and lyrics</composer>
         <respStmt>
           <resp>Transcribed by</resp>
           <persName role="trc">Lucinda Johnston</persName>
@@ -18,12 +19,24 @@
         <unpub/>
       </pubStmt>
       <!-- <seriesStmt></seriesStmt> -->
-      <!-- <notesStmt></notesStmt> -->
+      <notesStmt>
+        <annot>This is a transcription of the first known example of the melody Early One Morning appearing in print. It appeared with a simple piano accompaniment.</annot>
+      </notesStmt>
       <sourceDesc>
         <source>
           <titleStmt>
-            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes interspersed with remarks and anecdotes and preceded by an essay on English minstrelsy. The airs harmonized, for the pianoforte,</title>
+            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
+            <title>[Song] 83</title>
+            <editor>Edited bye W. Chappell, F.S.A</editor>
           </titleStmt>
+          <pubStmt>
+            <pubPlace>London</pubPlace>
+            <respStmt>
+              <resp>The airs harmonized, for the pianoforte, by</resp>
+              <persName role="edt"></persName>
+            </respStmt>
+            <date>1843</date>
+          </pubStmt>
         </source>
       </sourceDesc>
     </fileDesc>
@@ -495,18 +508,9 @@
                 <layer n="1">
                   <beam>
                     <chord>
-                      <note pname="e" oct="5" dur="8" stem.dir="up">
-                        <verse>
-                          <syl>use</syl>
-                        </verse>
-                      </note>
-                      <note pname="g" oct="4" dur="8" stem.dir="up"/>
-                    </chord>
-                    <chord>
                       <note pname="d" oct="5" dur="8" stem.dir="up"/>
                       <note pname="f" oct="4" dur="8" stem.dir="up"/>
                     </chord>
-                  </beam>
                   <beam>
                     <chord>
                       <note pname="c" oct="5" dur="8" stem.dir="up"/>
@@ -520,7 +524,6 @@
                       <note pname="b" oct="4" dur="8" stem.dir="up"/>
                       <note pname="d" oct="4" dur="8" stem.dir="up"/>
                     </chord>
-                  </beam>
                 </layer>
                 <layer n="2"/>
               </staff>
