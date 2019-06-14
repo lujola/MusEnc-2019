@@ -27,7 +27,7 @@
           <titleStmt>
             <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
             <title>[Song] 83</title>
-            <editor>Edited bye W. Chappell, F.S.A</editor>
+            <editor>Edited bye W. Chappell, F.S.A 1809-1888</editor>
           </titleStmt>
           <pubStmt>
             <pubPlace>London</pubPlace>
@@ -107,12 +107,12 @@
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                    <note xml:id="note-slur1-1" pname="f" oct="4" dur="8" stem.dir="up">
                       <verse>
                         <syl>Morning,</syl>
                       </verse>
                     </note>
-                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                    <note xml:id="note-slur1-2" pname="a" oct="4" dur="8" stem.dir="up"/>
                   </beam>
                   <beam>
                     <note pname="c" oct="5" dur="8" stem.dir="up"/>
@@ -137,7 +137,7 @@
                   </chord>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="above" staff="1" layer="1"/>
+              <slur startid="note-slur1-1" endid="note-slur1-2" curvedir="above" staff="1" layer="1"/>
             </measure>
             <measure n="3">
               <staff n="1">
@@ -588,7 +588,7 @@
               </staff>
               <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
             </measure>
-            <measure n="16">
+            <measure n="16" right="dbl">
               <staff n="1">
                 <layer n="1">
                   <note pname="f" oct="4" dur="2" stem.dir="up">
