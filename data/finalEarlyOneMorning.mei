@@ -30,6 +30,11 @@
             <editor>Edited bye W. Chappell, F.S.A 1809-1888</editor>
           </titleStmt>
           <pubStmt>
+            <address>
+              <addrLine>50, New Bond Street</addrLine>
+            </address>
+            <date>1843</date>
+            <publisher>Published by Chappell, (music-seller to Her Majesty), and Simpkin, Marshall, &amp; Co. Stationers' Hall Court.</publisher>
             <pubPlace>London</pubPlace>
             <respStmt>
               <resp>The airs harmonized, for the pianoforte, by</resp>
@@ -37,7 +42,6 @@
               <persName role="arr">G. Alex. MacFarren,</persName>
               <persName role="arr">and J. Augustine Wade</persName>
             </respStmt>
-            <date>1843</date>
           </pubStmt>
         </source>
       </sourceDesc>
