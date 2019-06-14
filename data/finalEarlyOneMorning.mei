@@ -29,6 +29,16 @@
             <title>[Song] 83</title>
             <editor>Edited bye W. Chappell, F.S.A</editor>
           </titleStmt>
+          <pubStmt>
+            <pubPlace>London</pubPlace>
+            <respStmt>
+              <resp>The airs harmonized, for the pianoforte, by</resp>
+              <persName role="arr">W. Crotch, Mus. Doc.,</persName>
+              <persName role="arr">G. Alex. MacFarren,</persName>
+              <persName role="arr">and J. Augustine Wade</persName>
+            </respStmt>
+            <date>1843</date>
+          </pubStmt>
         </source>
       </sourceDesc>
     </fileDesc>
