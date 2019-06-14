@@ -74,7 +74,7 @@
             <measure n="1">
               <staff n="1">
                 <layer n="1">
-                  <note pname="f" oct="4" dur="4" stem.dir="up">
+                  <note xml:id="tempo-1" pname="f" oct="4" dur="4" stem.dir="up">
                     <verse>
                       <syl con="u" wordpos="i">Ear</syl>
                     </verse>
@@ -105,7 +105,7 @@
                   </chord>
                 </layer>
               </staff>
-              <tempo place="above" tstamp="1">Slowly</tempo>
+              <tempo place="above" startid="tempo-1">Slowly</tempo>
             </measure>
             <measure n="2">
               <staff n="1">
