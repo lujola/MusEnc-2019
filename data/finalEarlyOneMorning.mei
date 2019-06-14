@@ -21,6 +21,7 @@
       <!-- <seriesStmt></seriesStmt> -->
       <notesStmt>
         <annot>This is a transcription of the first known example of the melody Early One Morning appearing in print. It appeared with a simple piano accompaniment.</annot>
+        <annot>Several stylistic and graphic elements associated with the original printed text are not reproducible here: 1) The song number, 83., appears to the left of the first system of music; 2) the font-type for the notes and musical figures (e.g. Clefs, time signatures) are not correct; 3) the opening tempo marking ("Slowly.") should be in italics; 4) many of the stems are at least half the length, or less, than they appear; 5) the slur in measure 2 should be above the noteheads rather than the stems.</annot>
       </notesStmt>
       <sourceDesc>
         <source>
@@ -55,9 +56,6 @@
           <name>Atom</name>
         </application>
       </appInfo>
-      <editorialDecl>
-        <p>Several stylistic and graphic elements associated with the original printed text are not reproducible here: 1) The song number, 83., appears to the left of the first system of music; 2) the font-type for the notes and musical figures (e.g. Clefs, time signatures) are not correct; 3) the opening tempo marking ("Slowly.") should be in italics; 4) the slur in measure 2 should be above the noteheads rather than the stems.</p>
-      </editorialDecl>
       <projectDesc>
         <p>This file was created for the Music Encoding Initiative course offered at UVic's DHSI 2019 in Victoria, BC.</p>
       </projectDesc>
