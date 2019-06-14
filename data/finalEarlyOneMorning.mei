@@ -19,11 +19,13 @@
         <unpub/>
       </pubStmt>
       <!-- <seriesStmt></seriesStmt> -->
-      <!-- <notesStmt></notesStmt> -->
+      <notesStmt>
+        <annot>This is a transcription of the first known example of the melody Early One Morning appearing in print. It appeared with a simple piano accompaniment.</annot>
+      </notesStmt>
       <sourceDesc>
         <source>
           <titleStmt>
-            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes interspersed with remarks and anecdotes and preceded by an essay on English minstrelsy. The airs harmonized, for the pianoforte,</title>
+            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
           </titleStmt>
         </source>
       </sourceDesc>
