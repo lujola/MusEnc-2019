@@ -1880,6 +1880,11 @@ mei-seriesstmt {
   display: none;
 }
 
+mei-filedesc > mei-notesstmt > mei-annot {
+  display: block;
+  margin-top: 1em;
+}
+
 mei-filedesc > mei-sourcedesc > mei-source {
   display: block;
   margin-top: 1em;

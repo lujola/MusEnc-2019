@@ -8,8 +8,8 @@
         <title xml:id="title12345">83.</title>
         <title xml:id="title23456" type="Alternative">Early one morning</title>
         <respStmt>
-          <resp>Traditional English melody and lyrics</resp>
-          <resp>Transcribed by</resp>
+          <resp>Traditional English melody and lyrics,</resp>
+          <resp>transcribed by</resp>
           <persName role="trc">Lucinda Johnston</persName>
         </respStmt>
       </titleStmt>
