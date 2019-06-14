@@ -32,7 +32,7 @@
               <resp>The airs harmonized, for the pianoforte, by</resp>
               <persName role="arr">W. Crotch, Mus. Doc.,</persName>
               <persName role="arr">G. Alex. MacFarren,</persName>
-              <persName role="arr">and J. Augustine Wade</persName>
+              <persName role="arr">and J. Augustine Wade.</persName>
             </respStmt>
           </titleStmt>
           <pubStmt>
@@ -105,7 +105,7 @@
                   </chord>
                 </layer>
               </staff>
-              <dir>Slowly</dir>
+              <tempo place="above" tstamp="1">Slowly</tempo>
             </measure>
             <measure n="2">
               <staff n="1">
