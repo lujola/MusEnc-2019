@@ -1811,6 +1811,10 @@ tei-zone {
   font-size: 24pt;
 }
 
+#title23456 {
+  font-size: 24pt;
+}
+
 mei-title[type="subordinate"] {
   font-size: 18pt;
   font-variant-caps: small-caps;

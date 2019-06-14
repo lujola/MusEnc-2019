@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:id="title12345">83.</title>
-        <title type="Alternative">Early one morning</title>
+        <title xml:id="title23456" type="Alternative">Early one morning</title>
         <composer>Traditional English melody and lyrics</composer>
         <respStmt>
           <resp>Transcribed by</resp>
