@@ -275,18 +275,18 @@
                   <note pname="a" oct="2" dur="4" stem.dir="down"/>
                 </layer>
               </staff>
-              <slur startid="note-slur3-1" endid="note-slur3-2"  curvedir="below" staff="1" layer="1"/>            
+              <slur startid="note-slur3-1" endid="note-slur3-2" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="7">
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="d" oct="5" dur="8" stem.dir="up">
+                    <note xml:id="note-slur4-1" pname="d" oct="5" dur="8" stem.dir="up">
                       <verse >
                         <syl con="u" wordpos="i">val</syl>
                       </verse>
                     </note>
-                    <note pname="b" oct="4" dur="8" stem.dir="up"/>
+                    <note xml:id="note-slur4-2" pname="b" oct="4" dur="8" stem.dir="up"/>
                     <note pname="g" oct="4" dur="8" stem.dir="up">
                       <verse >
                         <syl  wordpos="t">ley</syl>
@@ -311,7 +311,7 @@
                   <note pname="c" oct="3" dur="4" stem.dir="down"/>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+              <slur startid="note-slur4-1" endid="note-slur4-2" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="8">
               <staff n="1">
@@ -376,12 +376,12 @@
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="c" oct="5" dur="8" stem.dir="up">
+                    <note xml:id="note-slur5-1" pname="c" oct="5" dur="8" stem.dir="up">
                       <verse >
                         <syl>ceive</syl>
                       </verse>
                     </note>
-                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                    <note xml:id="note-slur5-2" pname="a" oct="4" dur="8" stem.dir="up"/>
                   </beam>
                   <note pname="f" oct="4" dur="4" stem.dir="up">
                     <verse >
@@ -403,7 +403,7 @@
                   <note pname="c" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+              <slur startid="note-slur5-1" endid="note-slur5-2" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="11">
               <staff n="1">
@@ -441,12 +441,12 @@
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="c" oct="5" dur="8" stem.dir="up">
+                    <note xml:id="note-slur6-1" pname="c" oct="5" dur="8" stem.dir="up">
                       <verse >
                         <syl>leave</syl>
                       </verse>
                     </note>
-                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                    <note xml:id="note-slur6-2" pname="a" oct="4" dur="8" stem.dir="up"/>
                   </beam>
                   <note pname="f" oct="4" dur="4" stem.dir="up">
                     <verse >
@@ -466,18 +466,18 @@
                   <note pname="c" oct="3" dur="8" stem.dir="down"/>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+              <slur startid="note-slur6-1" endid="note-slur6-2" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="13">
               <staff n="1">
                 <layer n="1">
                   <beam>
-                    <note pname="f" oct="4" dur="8" stem.dir="up">
+                    <note xml:id="note-slur7-1" pname="f" oct="4" dur="8" stem.dir="up">
                       <verse>
                         <syl>How</syl>
                       </verse>
                     </note>
-                    <note pname="a" oct="4" dur="8" stem.dir="up"/>
+                    <note xml:id="note-slur7-2" pname="a" oct="4" dur="8" stem.dir="up"/>
                   </beam>
                   <beam>
                     <note pname="c" oct="5" dur="8" stem.dir="up">
@@ -503,7 +503,7 @@
                   </chord>
                 </layer>
               </staff>
-              <slur tstamp="1" tstamp2="1.5" curvedir="below" staff="1" layer="1"/>
+              <slur startid="note-slur7-1" endid="note-slur7-2" curvedir="below" staff="1" layer="1"/>
             </measure>
             <measure n="14">
               <staff n="1">
