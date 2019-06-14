@@ -25,13 +25,14 @@
       <sourceDesc>
         <source>
           <titleStmt>
-            <title authURI="https://catalog.hathitrust.org/Record/100885638"><title>A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
+            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
             <title>[Song] 83</title>
-            <editor>W. Chappell, F.S.A</editor>
+            <editor>Edited bye W. Chappell, F.S.A</editor>
           </titleStmt>
           <pubStmt>
             <pubPlace>London</pubPlace>
             <respStmt>
+              <resp>The airs harmonized, for the pianoforte, by</resp>
               <persName role="edt"></persName>
             </respStmt>
             <date>1843</date>
