@@ -109,7 +109,7 @@
                   </beam>
                 </layer>
                 <layer n="2">
-                  <note pname="c" oct="4" dots="1" stem.dir="down"/>
+                  <note pname="c" oct="4" dots="1" dur="4" stem.dir="down"/>
                   <note pname="e" oct="4" accid="f" dur="8" stem.dir="down"/>
                 </layer>
               </staff>
