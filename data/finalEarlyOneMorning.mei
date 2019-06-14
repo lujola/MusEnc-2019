@@ -25,23 +25,23 @@
       <sourceDesc>
         <source>
           <titleStmt>
-            <title authURI="https://catalog.hathitrust.org/Record/100885638">A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.</title>
+            <title authURI="https://catalog.hathitrust.org/Record/100885638">'A collection of national English airs, consisting of ancient song, ballad &amp; dance tunes, interspersed with remarks and anecdote, and preceded by an essay on English minstrelsy.'</title>
             <title>[Song] 83</title>
-            <editor>Edited bye W. Chappell, F.S.A 1809-1888</editor>
-          </titleStmt>
-          <pubStmt>
-            <address>
-              <addrLine>50, New Bond Street</addrLine>
-            </address>
-            <date>1843</date>
-            <publisher>Published by Chappell, (music-seller to Her Majesty), and Simpkin, Marshall, &amp; Co. Stationers' Hall Court.</publisher>
-            <pubPlace>London</pubPlace>
+            <editor>Edited by W. Chappell, F.S.A 1809-1888</editor>
             <respStmt>
               <resp>The airs harmonized, for the pianoforte, by</resp>
               <persName role="arr">W. Crotch, Mus. Doc.,</persName>
               <persName role="arr">G. Alex. MacFarren,</persName>
               <persName role="arr">and J. Augustine Wade</persName>
             </respStmt>
+          </titleStmt>
+          <pubStmt>
+            <address>
+              <addrLine>50, New Bond Street</addrLine>
+            </address>
+            <publisher>Published by Chappell, (music-seller to Her Majesty), and Simpkin, Marshall, &amp; Co. Stationers' Hall Court.</publisher>
+            <pubPlace>London</pubPlace>
+            <date>1843</date>
           </pubStmt>
         </source>
       </sourceDesc>
