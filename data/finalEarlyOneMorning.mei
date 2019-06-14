@@ -105,7 +105,7 @@
                   </chord>
                 </layer>
               </staff>
-              <tempo place="above" startid="tempo-1">Slowly</tempo>
+              <tempo staff="1" startid="tempo-1">Slowly</tempo>
             </measure>
             <measure n="2">
               <staff n="1">
