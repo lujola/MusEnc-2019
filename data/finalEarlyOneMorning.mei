@@ -5,8 +5,8 @@
     <!-- <altId></altId> -->
     <fileDesc>
       <titleStmt>
-        <title>Early one morning</title>
-        <title type="Alternative">Indexed as: Early one morning, just as the sun</title>
+        <title>83.</title>
+        <title type="Alternative">Early one morning</title>
         <composer>Traditional English melody and lyrics</composer>
         <respStmt>
           <resp>Transcribed by</resp>
@@ -43,6 +43,9 @@
             <pubPlace>London</pubPlace>
             <date>1843</date>
           </pubStmt>
+          <langUsage>
+            <language>English</language>
+          </langUsage>
         </source>
       </sourceDesc>
     </fileDesc>
@@ -52,6 +55,9 @@
           <name>Atom</name>
         </application>
       </appInfo>
+      <editorialDecl>
+        <p>Several stylistic and graphic elements associated with the original printed text are not reproducible here: 1) The song number, 83., appears to the left of the first system of music; 2) the font-type for the notes and musical figures (e.g. Clefs, time signatures) are not correct; 3) the opening tempo marking ("Slowly.") should be in italics; 4) the slur in measure 2 should be above the noteheads rather than the stems.</p>
+      </editorialDecl>
       <projectDesc>
         <p>This file was created for the Music Encoding Initiative course offered at UVic's DHSI 2019 in Victoria, BC.</p>
       </projectDesc>
@@ -65,7 +71,7 @@
       <mdiv>
         <score>
           <scoreDef meter.count="2" meter.unit="4" key.sig="1f" key.mode="major">
-            <staffGrp symbol="bracket">
+            <staffGrp symbol="brace">
               <staffDef lines="5" clef.shape="G" clef.line="2" n="1"/>
               <staffDef lines="5" clef.shape="F" clef.line="4" n="2"/>
             </staffGrp>
@@ -105,7 +111,7 @@
                   </chord>
                 </layer>
               </staff>
-              <tempo staff="1" startid="tempo-1">Slowly</tempo>
+              <tempo staff="1" startid="tempo-1">Slowly.</tempo>
             </measure>
             <measure n="2">
               <staff n="1">
