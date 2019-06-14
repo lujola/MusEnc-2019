@@ -109,8 +109,10 @@
                   </beam>
                 </layer>
                 <layer n="2">
-                  <note pname="c" oct="4" dur="4" dots="1" stem.dir="down"/>
-                  <note pname="e" oct="4" accid="f" dur="8" stem.dir="down"/>
+                  <chord dur="2" stem.dir="down" stem.pos="right">
+                    <note pname="c" oct="4" dots="1"/>
+                    <note pname="e" oct="4" accid="f"/>
+                  </chord>
                 </layer>
               </staff>
               <staff n="2">
@@ -210,13 +212,13 @@
               <staff n="2">
                 <layer n="1"/>
                 <layer n="2">
-                  <chord stem.dir="down">
-                    <note pname="f" oct="3" dur="4"/>
-                    <note pname="a" oct="3" dur="4"/>
+                  <chord dur="4" stem.dir="down">
+                    <note pname="f" oct="3"/>
+                    <note pname="a" oct="3"/>
                   </chord>
-                  <chord>
-                    <note pname="g" oct="3" dur="4" stem.dir="down"/>
-                    <note pname="b" oct="3" dur="4" stem.dir="down"/>
+                  <chord dur="4" stem.dir="down">
+                    <note pname="g" oct="3"/>
+                    <note pname="b" oct="3" dur="4"/>
                   </chord>
                 </layer>
               </staff>
@@ -482,9 +484,9 @@
               <staff n="2">
                 <layer n="1"/>
                 <layer n="2">
-                  <chord>
-                    <note pname="f" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
-                    <note pname="a" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
+                  <chord dur="2" stem.dir="down" stem.pos="right">
+                    <note pname="f" oct="3"/>
+                    <note pname="a" oct="2"/>
                   </chord>
                 </layer>
               </staff>
@@ -502,23 +504,23 @@
                       </note>
                       <note pname="g" oct="4" dur="8" stem.dir="up"/>
                     </chord>
-                    <chord>
-                      <note pname="d" oct="5" dur="8" stem.dir="up"/>
-                      <note pname="f" oct="4" dur="8" stem.dir="up"/>
+                    <chord dur="8" stem.dir="up">
+                      <note pname="d" oct="5"/>
+                      <note pname="f" oct="4"/>
                     </chord>
                   </beam>
                   <beam>
-                    <chord>
-                      <note pname="c" oct="5" dur="8" stem.dir="up"/>
-                      <note pname="e" oct="4" dur="8" stem.dir="up">
+                    <chord dur="8" stem.dir="up">
+                      <note pname="c" oct="5"/>
+                      <note pname="e" oct="4">
                         <verse>
                           <syl>a</syl>
                         </verse>
                       </note>
                     </chord>
-                    <chord>
-                      <note pname="b" oct="4" dur="8" stem.dir="up"/>
-                      <note pname="d" oct="4" dur="8" stem.dir="up"/>
+                    <chord dur="8" stem.dir="up">
+                      <note pname="b" oct="4"/>
+                      <note pname="d" oct="4"/>
                     </chord>
                   </beam>
                 </layer>
@@ -527,9 +529,9 @@
               <staff n="2">
                 <layer n="1"/>
                 <layer n="2">
-                  <chord>
-                    <note pname="b" oct="3" dur="2" stem.dir="down" stem.pos="right"/>
-                    <note pname="b" oct="2" dur="2" stem.dir="down" stem.pos="right"/>
+                  <chord dur="2" stem.dir="down" stem.pos="right">
+                    <note pname="b" oct="3"/>
+                    <note pname="b" oct="2"/>
                   </chord>
                 </layer>
               </staff>
